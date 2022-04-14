@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Receiver</string>
+    <string name="name">Name: %1$s</string>
+    <string name="number">Phone: %1$s</string>
+</resources>
